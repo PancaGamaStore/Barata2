@@ -1,0 +1,33 @@
+{
+    "ownerNumber": "6282282957410@s.whatsapp.net", 
+    "ownerName": "Denayyy", 
+    "botName": "BRT~ BOT",
+    "footer": "© Barata", 
+    "sessionName": "session", 
+    "pathimg": "./media/logo.jpg", 
+    "pathqris": "./media/qris.jpg",
+    "group": "https://chat.whatsapp.com/D9x5zkvM5FR8udhllyR8Wz",
+    "Instagram": "https://instagram.com/barata_storee",
+     
+    "textBarisDonate1": "Dana : 0822-8295-7410",
+    "textBarisDonate2": "Gopay : 0822-8295-7410",
+  
+    "ButtonTextMenu1": "Instagram",
+    "ButtonTextMenu2": "Owner",
+    "quickReplyButton3": "Rules",
+    "quickReplyButton4": "Donasi",
+    "quickReplyButton5": "Dashboard",
+  
+    "ButtonMenuLink1": "https://instagram.com/barata_storee",
+    "ButtonMenuLink2": "https://wa.me/6282282957410",
+    "displayTextMenu3": "rules",
+    "displayTextMenu4": "donasi",
+    "displayTextMenu5": "dashboard",
+    "limitCount": 999,
+    "limitGame": 30,
+    "gamewaktu": 90,
+    "sticker": {
+        "packname": "© Barata",
+        "author": "Barata Store"
+    }
+}
